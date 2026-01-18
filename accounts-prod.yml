@@ -1,0 +1,15 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "3.0"
+accounts:
+  message: "this is accounts microservice"
+  contactDetails:
+    name: "K S Vani"
+    email: "vani@gmail.com"
+  onContactSupport:
+    - +918019135761
+    - +919989069668

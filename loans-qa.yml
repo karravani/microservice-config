@@ -1,0 +1,15 @@
+spring:
+  config:
+    activate:
+      on-profile:
+        - "qa"
+build:
+  version: "1.2"
+loans:
+  message: "this is loans microservice in qa level"
+  contactDetails:
+    name: "K Sree Navya"
+    email: "karranavyanagalakshmi@gmail.com"
+  onContactSupport:
+    - +918019135761
+    - +919989069668

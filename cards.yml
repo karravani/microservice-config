@@ -1,0 +1,11 @@
+
+build:
+  version: "1.0"
+cards:
+  message: "this is cards microservice"
+  contactDetails:
+    name: "K Sree Navya"
+    email: "karranavyanagalakshmi@gmail.com"
+  onContactSupport:
+    - +918019135761
+    - +919989069668

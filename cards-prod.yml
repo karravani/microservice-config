@@ -1,0 +1,15 @@
+spring:
+  config:
+    activate:
+      on-profile:
+        - "prod"
+build:
+  version: "1.1"
+cards:
+  message: "this is cards microservice in production level"
+  contactDetails:
+    name: "K Sree Navya"
+    email: "karranavyanagalakshmi@gmail.com"
+  onContactSupport:
+    - +918019135761
+    - +919989069668
