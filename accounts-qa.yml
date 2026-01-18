@@ -6,7 +6,7 @@ spring:
 build:
   version: "2.0"
 accounts:
-  message: "this is accounts microservice"
+  message: "this is accounts microservice in Quality Assurance environment"
   contactDetails:
     name: "K NISHANTH"
     email: "{cipher}406ef19639bcab8403807c3fc4b2d7860f5a5fcfc201736064cd8c2e540b615c3ce9329ea65c71441c151584e562ed46"
