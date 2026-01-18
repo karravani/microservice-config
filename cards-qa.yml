@@ -6,7 +6,7 @@ spring:
 build:
   version: "1.2"
 cards:
-  message: "this is cards microservice in qa level"
+  message: "this is cards microservice in Quality Assurance environment"
   contactDetails:
     name: "K Sree Navya"
     email: "karranavyanagalakshmi@gmail.com"
