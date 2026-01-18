@@ -5,7 +5,7 @@ accounts:
   message: "this is accounts microservice"
   contactDetails:
     name: "K Sree Navya"
-    email: "karranavyanagalakshmi@gmail.com"
+    email: "{cipher}8c23f734e4954f699c36e6e09491c8162a6b0742e66d3064984503e8ea71cc7aa7d77b86547a7de4ada0bf7a3e658f30"
   onContactSupport:
     - +918019135761
     - +919989069668
