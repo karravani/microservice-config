@@ -6,10 +6,10 @@ spring:
 build:
   version: "3.0"
 accounts:
-  message: "this is accounts microservice"
+  message: "this is accounts microservice in production level"
   contactDetails:
     name: "K S Vani"
-    email: "vani@gmail.com"
+    email: "{cipher}3299ce9934839e38f88e7c3e7dc33e88dcf9796f0976d29d9fa916201f040948"
   onContactSupport:
     - +918019135761
     - +919989069668
