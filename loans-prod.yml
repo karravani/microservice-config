@@ -6,10 +6,10 @@ spring:
 build:
   version: "1.1"
 loans:
-  message: "this is loans microservice in production level"
+  message: "this is Loans microservice in Production level"
   contactDetails:
     name: "K Sree Navya"
-    email: "karranavyanagalakshmi@gmail.com"
+    email: "karranavyan2@gmail.com"
   onContactSupport:
     - +918019135761
     - +919989069668
