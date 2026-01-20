@@ -6,10 +6,10 @@ spring:
 build:
   version: "1.2"
 cards:
-  message: "this is cards microservice in Quality Assurance environment"
+  message: "This is Cards Microservice in Quality Assurance environment"
   contactDetails:
     name: "K Sree Navya"
-    email: "karranavyanagalakshmi@gmail.com"
+    email: "navya@gmail.com"
   onContactSupport:
     - +918019135761
-    - +919989069668
+    
