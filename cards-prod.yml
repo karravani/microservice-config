@@ -6,7 +6,7 @@ spring:
 build:
   version: "1.1"
 cards:
-  message: "this is cards microservice in production level"
+  message: "this is Cards microservice in Production level"
   contactDetails:
     name: "K Sree Navya"
     email: "karranavyanagalakshmi@gmail.com"
